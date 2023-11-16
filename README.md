@@ -1,6 +1,5 @@
 # Reto número 12 repo
 ### Fecha:  01-11-2023
-* Mirar archivo Reto12.ipynb
   
 **1.** Consulte que hacen los siguientes métodos de strings en python: endswith, startswith, isalpha, isalnum, isdigit, isspace, istitle, islower, isupper.
 
